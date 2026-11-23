@@ -1,0 +1,6 @@
+{
+  "name": "nebula",
+  "version": "0.2.0",
+  "description": "Space look for the desktop app: dark palette, a green nebula and stars behind the conversation, and three live gauges drawn as sky objects: a star for the prompt cache, a planet for the context window, a ringed planet for the usage limits. UI only, zero tokens.",
+  "types": "./types/index.d.ts"
+}
