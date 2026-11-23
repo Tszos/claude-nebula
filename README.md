@@ -1,5 +1,9 @@
 # nebula: a space look for the Claude desktop app
 
+![The nebula backdrop with the three gauges: cache star, context planet, ringed limits planet](docs/backdrop.png)
+
+*The backdrop as the mod draws it (sample readings). In the app it sits behind the conversation, under a frosted glass layer.*
+
 A dark palette, a green nebula and stars behind the conversation, and three live gauges drawn as sky objects:
 
 - **star** = prompt cache (white-green while warm, orange in the last 5 minutes, dim red when cold)
