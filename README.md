@@ -10,7 +10,7 @@ A dark palette, a green nebula and stars behind the conversation, and three live
 - **large planet** = context window (the lit side grows as it fills)
 - **ringed planet** = usage limits (inner ring 5-hour window, outer ring 7-day window)
 
-It changes only the interface and uses zero tokens. The look draws in the desktop and mobile apps; the terminal shows nothing.
+It changes only the interface and uses zero tokens. The look draws in the desktop app only; the mobile app and the terminal show nothing.
 
 ## Install
 
